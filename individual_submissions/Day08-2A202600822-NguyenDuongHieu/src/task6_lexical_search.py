@@ -5,14 +5,14 @@ import chromadb
 import string
 
 STANDARDIZED_DIR = Path(__file__).parent.parent / "data" / "standardized"
-DB_PATH = "D:/code/chroma_db_cohort2"
+DB_PATH = str(Path(__file__).parent.parent.parent / "Day08_2A202600556-NguyenVanMinh" / "data" / "vectorstore" / "chroma_db")
 
 class LexicalSearcher:
     def __init__(self):
         print("Loading all documents from ChromaDB for BM25...")
         # Lấy toàn bộ chunk từ database đã làm ở Task 4
         self.client = chromadb.PersistentClient(path=DB_PATH)
-        self.collection = self.client.get_collection(name="drug_law_docs")
+        self.collection = self.client.get_collection(name="DrugLawDocs")
         
         # Get tất cả dữ liệu
         all_data = self.collection.get(include=["documents", "metadatas"])

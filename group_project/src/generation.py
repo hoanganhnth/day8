@@ -13,7 +13,9 @@ from .utils import NOT_INTEGRATED_MESSAGE, SourceDocument
 root_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 individual_path = os.path.join(root_dir, "individual_submissions", "Day08-2A202600821-LeNguyenMinhQuan")
 if individual_path not in sys.path:
-    sys.path.append(individual_path)
+    sys.path.insert(0, individual_path)
+
+cached_src = sys.modules.pop("src", None)
 
 try:
     from src.task10_generation import generate_with_citation as llm_generate  # type: ignore
@@ -21,6 +23,9 @@ try:
 except ImportError as e:
     print(f"[Warning] Group generation missing dependencies: {e}")
     IMPORTS_SUCCESS = False
+finally:
+    if cached_src is not None:
+        sys.modules["src"] = cached_src
 
 def generate_with_citation(question: str, sources: list[SourceDocument]) -> str:
     """

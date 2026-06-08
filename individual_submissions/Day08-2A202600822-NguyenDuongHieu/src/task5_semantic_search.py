@@ -17,14 +17,14 @@ import numpy as np
 
 # Cấu hình phải khớp với Task 4
 STANDARDIZED_DIR = Path(__file__).parent.parent / "data" / "standardized"
-DB_PATH = "D:/code/chroma_db_cohort2"
-EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
+DB_PATH = str(Path(__file__).parent.parent.parent / "Day08_2A202600556-NguyenVanMinh" / "data" / "vectorstore" / "chroma_db")
+EMBEDDING_MODEL = "BAAI/bge-m3"
 
 class SemanticSearcher:
     def __init__(self):
         # KHỞI TẠO CHROMADB TRƯỚC! PyTorch (trong SentenceTransformer) làm hỏng ThreadPool của Rust trên Windows
         self.client = chromadb.PersistentClient(path=DB_PATH)
-        self.collection = self.client.get_collection(name="drug_law_docs")
+        self.collection = self.client.get_collection(name="DrugLawDocs")
         
         # Fix lỗi HNSW của Chroma trên Windows: tách làm 2 lần lấy để tránh bug
         data_text = self.collection.get(include=["documents", "metadatas"])

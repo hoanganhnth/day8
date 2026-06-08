@@ -2,7 +2,7 @@ import os
 from dotenv import load_dotenv
 from openai import OpenAI
 
-load_dotenv()
+load_dotenv(override=True)
 
 def reorder_for_llm(chunks: list[dict]) -> list[dict]:
     if not chunks:
@@ -42,7 +42,7 @@ def generate_with_citation(query: str, context_chunks: list[dict] = None) -> dic
             "sources": reordered
         }
         
-    client = OpenAI()
+    client = OpenAI(base_url="https://openrouter.ai/api/v1")
     
     prompt = f"""Bạn là một chuyên gia pháp lý và phân tích tin tức.
 Dựa vào ngữ cảnh được cung cấp bên dưới, hãy trả lời câu hỏi của người dùng.
@@ -62,7 +62,8 @@ CÂU HỎI:
             {"role": "system", "content": "You are a helpful assistant."},
             {"role": "user", "content": prompt}
         ],
-        temperature=0.2
+        temperature=0.2,
+        max_tokens=512
     )
     
     answer = response.choices[0].message.content
