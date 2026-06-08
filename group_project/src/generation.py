@@ -6,25 +6,25 @@ Owner branch: `feature/generation-citation`.
 from __future__ import annotations
 
 from .utils import NOT_INTEGRATED_MESSAGE, SourceDocument
+from .task10_generation import generate_with_citation as llm_generate
 
 
 def generate_with_citation(question: str, sources: list[SourceDocument]) -> str:
     """
     Generate a cited answer from retrieved source documents.
-
-    Replace this scaffold with the selected generation strategy. The final
-    answer must cite source documents and refuse unsupported claims.
     """
-    _ = question
     if not sources:
         return NOT_INTEGRATED_MESSAGE
 
-    answer_parts = []
-    for source in sources[:3]:
-        metadata = source.get("metadata", {})
-        label = metadata.get("source", source.get("source", "source"))
-        content = source.get("content", "").strip()
-        if content:
-            answer_parts.append(f"{content[:240]} [{label}]")
+    # Convert SourceDocument to dict for task10_generation
+    context_chunks = []
+    for s in sources:
+        context_chunks.append({
+            "content": s.get("content", ""),
+            "metadata": s.get("metadata", {}),
+            "source": s.get("source", "hybrid")
+        })
 
-    return " ".join(answer_parts) if answer_parts else NOT_INTEGRATED_MESSAGE
+    # Call the actual generation logic
+    result = llm_generate(question, context_chunks)
+    return result["answer"]
