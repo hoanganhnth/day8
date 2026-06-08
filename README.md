@@ -41,5 +41,5 @@ nhóm file được phân công để tránh conflict khi merge.
 
 ## Current Status
 
-- Bài cá nhân Phạm Hoàng Anh: đã nộp kèm trong `individual_submissions/`.
-- Group project: đã tách module theo task, chưa tích hợp sản phẩm hoàn chỉnh.
+- Bài cá nhân: Tất cả các thành viên đã nộp kèm trong `individual_submissions/`.
+- Group project: Tất cả các thành viên đã hoàn thành phần công việc của mình. Pipeline đã được tích hợp hoàn chỉnh (Chat UI, Retrieval, Generation có citation, và Evaluation A/B).
