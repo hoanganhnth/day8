@@ -1,0 +1,16 @@
+# Lõi (bắt buộc để chạy test): chỉ cần pytest, code dùng thuần Python.
+pytest>=8.0.0
+python-dotenv>=1.0.0
+
+# Task 2 — crawl (tuỳ chọn)
+crawl4ai>=0.3.0
+# Task 3 — convert (tuỳ chọn)
+markitdown>=0.1.0
+# Task 6 — BM25 thật (tuỳ chọn; không có thì tự rơi về BM25 thuần Python)
+rank-bm25>=0.2.2
+# Task 5 — embeddings thật (tuỳ chọn)
+# sentence-transformers>=2.2.0
+# Task 8 — PageIndex thật (tuỳ chọn)
+# pageindex>=0.1.0
+# Task 10 — LLM thật (tuỳ chọn)
+# openai>=1.30.0
