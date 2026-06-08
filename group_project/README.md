@@ -2,9 +2,8 @@
 
 ## Goal
 
-Xây dựng phần project nhóm: chatbot RAG trả lời câu hỏi về pháp luật ma túy và
-tin tức liên quan, kèm evaluation A/B. Bài cá nhân của từng thành viên nằm trong
-`individual_submissions/` ở root repo chỉ để nộp kèm cho thầy dễ chấm.
+Tích hợp phần tốt nhất từ bài cá nhân của các thành viên thành chatbot RAG trả
+lời câu hỏi về pháp luật ma túy và tin tức liên quan.
 
 ## Required Deliverables
 
@@ -83,14 +82,10 @@ Output bắt buộc:
 
 | Thành viên | MSSV | Nhiệm vụ | Trạng thái |
 |---|---|---|---|
-| Phạm Hoàng Anh | 2A202600631 | Chat UI + conversation memory + source display (`feature/chatbot-ui`) | Đang làm |
-| Đoàn Minh Hiếu | 2A202600841 | Data preprocessing + data summary (`feature/data-preprocessing`) | Đang làm |
-| Nguyễn Dương Hiếu | 2A202600822 | Retrieval pipeline: semantic, BM25, hybrid, fallback (`feature/retrieval-pipeline`) | Hoàn thành |
-| TBD | TBD | Generation + citation formatting (`feature/generation-citation`) | Chưa phân công |
-| Nguyễn Văn Minh | 2A202600556 | Evaluation A/B + `results.md` (`feature/evaluation-report`) | Đang làm |
-
-> Khi có đủ tên thành viên, thay `TBD` bằng họ tên/MSSV thật. Mỗi người chỉ sửa
-> đúng file được quy định trong `BRANCH_RULES.md`.
+| Phạm Hoàng Anh | 2A202600631 | Đề xuất pipeline cá nhân làm baseline | Hoàn thành baseline |
+| | | Chat UI và conversation memory | Chưa phân công |
+| | | Retrieval integration và reranking | Chưa phân công |
+| | | Evaluation A/B và results.md | Chưa phân công |
 
 ## Run Scaffold
 
