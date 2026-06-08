@@ -2,8 +2,9 @@
 
 ## Goal
 
-Tích hợp phần tốt nhất từ bài cá nhân của các thành viên thành chatbot RAG trả
-lời câu hỏi về pháp luật ma túy và tin tức liên quan.
+Xây dựng phần project nhóm: chatbot RAG trả lời câu hỏi về pháp luật ma túy và
+tin tức liên quan, kèm evaluation A/B. Bài cá nhân của từng thành viên nằm trong
+`individual_submissions/` ở root repo chỉ để nộp kèm cho thầy dễ chấm.
 
 ## Required Deliverables
 
@@ -82,7 +83,7 @@ Output bắt buộc:
 
 | Thành viên | MSSV | Nhiệm vụ | Trạng thái |
 |---|---|---|---|
-| Phạm Hoàng Anh | 2A202600631 | Cung cấp bài cá nhân đã pass test làm mẫu nền cho pipeline nhóm; phụ trách Chat UI + conversation memory + source display (`feature/chatbot-ui`) | Baseline hoàn thành, UI đang làm |
+| Phạm Hoàng Anh | 2A202600631 | Chat UI + conversation memory + source display (`feature/chatbot-ui`) | Đang làm |
 | TBD | TBD | Data preprocessing + data summary (`feature/data-preprocessing`) | Chưa phân công |
 | TBD | TBD | Retrieval pipeline: semantic, BM25, hybrid, fallback (`feature/retrieval-pipeline`) | Chưa phân công |
 | TBD | TBD | Generation + citation formatting (`feature/generation-citation`) | Chưa phân công |
