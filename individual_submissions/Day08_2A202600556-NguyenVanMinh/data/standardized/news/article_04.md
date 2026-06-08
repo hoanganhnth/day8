@@ -1,0 +1,222 @@
+# Báo Người Lao Động: Tin tức mới nhất 24h, tin nhanh, nóng nhất
+
+**Source:** https://nld.com.vn/giai-tri/nhin-lai-nhung-nghe-si-viet-vuong-lao-ly-vi-ma-tuy-20230424103135763.htm
+**Crawled:** 2026-06-08T14:20:18.130605
+
+---
+
+HOTLINE: 0903.343.439 - HOTLINE Phát hành: 0819.123.127 -  [ĐẶT MUA BÁO](https://nld.com.vn/dat-bao.htm "ĐẶT MUA BÁO")
+[ ![icon](https://static.mediacdn.vn/nld.com.vn/image/ic-lts-pc.svg) Lý tưởng sống ](https://nld.com.vn/ly-tuong-song.htm "Lý tưởng sống") [ ![icon](https://static.mediacdn.vn/nld.com.vn/image/ic-noi-thang-pc.svg) Nói thẳng ](https://nld.com.vn/noi-thang.htm "Nói thẳng") [ ![icon](https://static.mediacdn.vn/nld.com.vn/image/ic-tin-dq.svg) Tin độc quyền ](https://nld.com.vn/doc-quyen.htm "Tin độc quyền") [ ![icon](https://static.mediacdn.vn/nld.com.vn/image/ic-thi-truong.svg) Thị trường ](https://thitruong.nld.com.vn/ "Thị trường") [ ![icon](https://static.mediacdn.vn/nld.com.vn/images/icon-24h.svg) 24h qua ](https://nld.com.vn/tin-24h.htm "24h qua")
+[ ![Facebook](https://static.mediacdn.vn/nld.com.vn/image/ic-fb-top-pc.svg) ](https://www.facebook.com/nguoilaodong "Facebook") [ ![Youtube](https://static.mediacdn.vn/nld.com.vn/image/ic-yt-top-pc.svg) ](https://www.youtube.com/channel/UCzkyOx_0O1pGOqHiUMOe2KQ?sub_confirmation=1 "Youtube") [ ![Zalo](https://static.mediacdn.vn/nld.com.vn/image/icon-zalo-top-pc.svg) ](https://zalo.me/4417973660626754335 "Zalo") [ ![Rss](https://static.mediacdn.vn/nld.com.vn/image/ic-rss-top-pc.svg) ](https://nld.com.vn/rss.htm "Rss")
+#  [ ![](https://static.mediacdn.vn/nld.com.vn/image/logo-nld.png) ](https://nld.com.vn/ "Báo Người Lao Động: Tin tức mới nhất 24h, tin nhanh, nóng nhất")
+##  [ ![Người lao động News](https://static.mediacdn.vn/nld.com.vn/image/Logoenglish.png) ](https://nld.com.vn/nguoi-lao-dong-news.htm "Người lao động News")
+[ ![Tìm kiếm](https://static.mediacdn.vn/nld.com.vn/image/icon-search1.svg?v4) ](javascript:;)
+[ ![Đăng nhập](https://static.mediacdn.vn/nld.com.vn/image/icon-user-login.svg) ](javascript:; "Đăng nhập")
+[ ![icon](https://static.mediacdn.vn/nld/images/userdefaultlogin_v2.svg) ](https://nld.com.vn/thong-tin-tai-khoan.htm "Thông tin tài khoản")
+![Đóng](https://static.mediacdn.vn/nld.com.vn/image/closenotifyheader.svg)
+Bạn chưa đăng nhập. Hãy đăng nhập để đồng bộ gói dịch vụ vào tài khoản của bạn
+Bạn vừa nạp đ để mua gói dich vụ. Để an toàn hơn, NLĐ khuyến nghị bạn đăng ký tài khoản hoặc đăng nhập ngay để đồng bộ gói dịch vụ vào tài khoản 
+[ ![icon](https://static.mediacdn.vn/nld.com.vn/image/isnotlogin.svg) Đăng ký tài khoản ](javascript:; "Đăng ký") Hoặc 
+![icon](https://static.mediacdn.vn/nld.com.vn/image/notifymain-login.svg) Đăng nhập ngay
+![thông tin tài khoản](https://static.mediacdn.vn/nld/images/userdefaultlogin_v2.svg) [](https://nld.com.vn/thong-tin-tai-khoan/tong-quan.htm "thông tin tài khoản")
+  * [Tổng quan](https://nld.com.vn/thong-tin-tai-khoan/tong-quan.htm "Tổng quan")
+  * [Thông tin tài khoản](https://nld.com.vn/thong-tin-tai-khoan.htm "Thông tin tài khoản")
+  * [Gia hạn gói VIP](javascript:; "Gia hạn gói VIP")
+  * [Quản lý quà tặng](https://nld.com.vn/thong-tin-tai-khoan/quan-ly-qua-tang.htm "Quản lý quà tặng")
+  * [Lịch sử giao dịch](https://nld.com.vn/thong-tin-tai-khoan/lich-su-giao-dich.htm "Lịch sử giao dịch")
+  * [Đăng xuất](javascript:; "Đăng xuất")
+
+
+[ ![icon](https://static.mediacdn.vn/nld.com.vn/image/icon-doc-vip.svg) Đăng ký gói bạn đọc VIP ](https://nld.com.vn/dang-ky-danh-cho-ban-doc-vip.htm "Đăng ký gói bạn đọc VIP") [ E-paper ](https://nld.com.vn/e-paper.htm "Mua gói đọc báo")
+[ ](https://nld.com.vn/ "Trang chủ") [Thời sự](https://nld.com.vn/thoi-su.htm "Thời sự") [Quốc tế](https://nld.com.vn/quoc-te.htm "Quốc tế") [Lao động](https://nld.com.vn/lao-dong.htm "Lao động") [Bạn đọc](https://nld.com.vn/ban-doc.htm "Bạn đọc") [Net Zero](https://nld.com.vn/net-zero.htm "Net Zero") [Kinh tế](https://nld.com.vn/kinh-te.htm "Kinh tế") [Sức khỏe](https://nld.com.vn/suc-khoe.htm "Sức khỏe") [Giáo dục](https://nld.com.vn/giao-duc-khoa-hoc.htm "Giáo dục") [Pháp luật](https://nld.com.vn/phap-luat.htm "Pháp luật") [Văn hóa - Văn nghệ](https://nld.com.vn/van-hoa-van-nghe.htm "Văn hóa - Văn nghệ") [Giải trí](https://nld.com.vn/giai-tri.htm "Giải trí") [Thể thao](https://nld.com.vn/the-thao.htm "Thể thao") [AI 365](https://nld.com.vn/ai-365.htm "AI 365") [Phụ nữ](https://phunu.nld.com.vn/ "Phụ nữ") [Gia đình](https://nld.com.vn/gia-dinh.htm "Gia đình") [Địa ốc](https://diaoc.nld.com.vn "Địa ốc")
+[Thời sự](https://nld.com.vn/thoi-su.htm "Thời sự")
+[Chính trị](https://nld.com.vn/thoi-su/chinh-tri.htm "Chính trị") [Xã hội](https://nld.com.vn/thoi-su/xa-hoi.htm "Xã hội") [Đô thị](https://nld.com.vn/thoi-su/do-thi.htm "Đô thị")
+[Quốc tế](https://nld.com.vn/quoc-te.htm "Quốc tế")
+[Người Việt đó đây](https://nld.com.vn/quoc-te/nguoi-viet-do-day.htm "Người Việt đó đây") [Hay - lạ](https://nld.com.vn/quoc-te/hay-la.htm "Hay - lạ") [Vấn đề nóng](https://nld.com.vn/quoc-te/van-de-nong.htm "Vấn đề nóng") [Hồ sơ](https://nld.com.vn/quoc-te/ho-so.htm "Hồ sơ") [Quân sự - Quốc phòng](https://nld.com.vn/quoc-te/quan-su-quoc-phong.htm "Quân sự - Quốc phòng")
+[xem thêm](javascript:; "xem thêm")
+[Lao động](https://nld.com.vn/lao-dong.htm "Lao động")
+[Công đoàn - Công nhân](https://nld.com.vn/lao-dong/cong-doan-cong-nhan.htm "Công đoàn - Công nhân") [Việc làm](https://nld.com.vn/lao-dong/viec-lam.htm "Việc làm") [An sinh xã hội](https://nld.com.vn/lao-dong/an-sinh-xa-hoi.htm "An sinh xã hội") [Chính sách](https://nld.com.vn/lao-dong/chinh-sach.htm "Chính sách") [Xuất khẩu lao động](https://nld.com.vn/lao-dong/xuat-khau-lao-dong.htm "Xuất khẩu lao động")
+[xem thêm](javascript:; "xem thêm")
+[Bạn đọc](https://nld.com.vn/ban-doc.htm "Bạn đọc")
+[Cuộc sống nhân ái](https://nld.com.vn/ban-doc/cuoc-song-nhan-ai.htm "Cuộc sống nhân ái") [Tôi lên tiếng](https://nld.com.vn/ban-doc/toi-len-tieng.htm "Tôi lên tiếng") [Góc ảnh bạn đọc](https://nld.com.vn/ban-doc/goc-anh-ban-doc.htm "Góc ảnh bạn đọc") [Thư bạn đọc](https://nld.com.vn/ban-doc/thu-ban-doc.htm "Thư bạn đọc") [Nhà ở xã hội](https://nld.com.vn/ban-doc/nha-o-xa-hoi.htm "Nhà ở xã hội")
+[xem thêm](javascript:; "xem thêm")
+[Net Zero](https://nld.com.vn/net-zero.htm "Net Zero")
+[Tin tức & Xu hướng](https://nld.com.vn/net-zero/tin-tuc-xu-huong.htm "Tin tức & Xu hướng") [Chuyển đổi xanh](https://nld.com.vn/net-zero/chuyen-doi-xanh.htm "Chuyển đổi xanh") [Sống xanh](https://nld.com.vn/net-zero/song-xanh.htm "Sống xanh") [Cẩm nang](https://nld.com.vn/net-zero/cam-nang.htm "Cẩm nang")
+[Kinh tế](https://nld.com.vn/kinh-te.htm "Kinh tế")
+[Kinh doanh](https://nld.com.vn/kinh-te/kinh-doanh.htm "Kinh doanh") [Tiêu dùng](https://nld.com.vn/kinh-te/tieu-dung.htm "Tiêu dùng") [Ôtô - Xe - Điện máy](https://nld.com.vn/kinh-te/oto-xe-dien-may.htm "Ôtô - Xe - Điện máy") [Bất động sản](https://nld.com.vn/kinh-te/bat-dong-san.htm "Bất động sản") [Tài chính – Chứng khoán](https://nld.com.vn/kinh-te/tai-chinh-chung-khoan.htm "Tài chính – Chứng khoán") [Diễn đàn kinh tế](https://nld.com.vn/kinh-te/dien-dan-kinh-te.htm "Diễn đàn kinh tế")
+[xem thêm](javascript:; "xem thêm")
+[Sức khỏe](https://nld.com.vn/suc-khoe.htm "Sức khỏe")
+[Chuyển động y học](https://nld.com.vn/suc-khoe/chuyen-dong-y-hoc.htm "Chuyển động y học") [Giới tính](https://nld.com.vn/suc-khoe/gioi-tinh.htm "Giới tính") [Bác sĩ của bạn](https://nld.com.vn/suc-khoe/bac-si-cua-ban.htm "Bác sĩ của bạn") [Khỏe & đẹp](https://nld.com.vn/suc-khoe/khoe-va-dep.htm "Khỏe & đẹp")
+[Giáo dục](https://nld.com.vn/giao-duc-khoa-hoc.htm "Giáo dục")
+[Du học](https://nld.com.vn/giao-duc-khoa-hoc/du-hoc.htm "Du học") [Tuyển sinh](https://nld.com.vn/giao-duc-khoa-hoc/tuyen-sinh.htm "Tuyển sinh") [Sau bục giảng](https://nld.com.vn/giao-duc-khoa-hoc/sau-buc-giang.htm "Sau bục giảng")
+[Pháp luật](https://nld.com.vn/phap-luat.htm "Pháp luật")
+[Luật sư của bạn](https://nld.com.vn/phap-luat/luat-su-cua-ban.htm "Luật sư của bạn") [Truy nã](https://nld.com.vn/phap-luat/truy-na.htm "Truy nã") [Chuyện pháp đình](https://nld.com.vn/phap-luat/chuyen-phap-dinh.htm "Chuyện pháp đình")
+[Văn hóa - Văn nghệ](https://nld.com.vn/van-hoa-van-nghe.htm "Văn hóa - Văn nghệ")
+[Âm nhạc](https://nld.com.vn/van-hoa-van-nghe/am-nhac.htm "Âm nhạc") [Văn học](https://nld.com.vn/van-hoa-van-nghe/van-hoc.htm "Văn học") [Sân khấu](https://nld.com.vn/van-hoa-van-nghe/san-khau.htm "Sân khấu") [Điện ảnh](https://nld.com.vn/van-hoa-van-nghe/dien-anh.htm "Điện ảnh") [Nghe - Xem – Đọc gì?](https://nld.com.vn/van-hoa-van-nghe/nghe-xem-doc-gi.htm "Nghe -  Xem – Đọc gì?")
+[xem thêm](javascript:; "xem thêm")
+[Giải trí](https://nld.com.vn/giai-tri.htm "Giải trí")
+[Hậu trường showbiz](https://nld.com.vn/giai-tri/hau-truong-showbiz.htm "Hậu trường showbiz") [Chuyện của sao](https://nld.com.vn/giai-tri/chuyen-cua-sao.htm "Chuyện của sao")
+[Thể thao](https://nld.com.vn/the-thao.htm "Thể thao")
+[Bóng đá](https://nld.com.vn/the-thao/bong-da.htm "Bóng đá") [Golf](https://nld.com.vn/the-thao/golf.htm "Golf") [Hậu trường](https://nld.com.vn/the-thao/hau-truong.htm "Hậu trường") [Các môn khác](https://nld.com.vn/the-thao/cac-mon-khac.htm "Các môn khác") [Tennis](https://nld.com.vn/the-thao/tennis.htm "Tennis") [Marathon](https://nld.com.vn/the-thao/marathon.htm "Marathon")
+[xem thêm](javascript:; "xem thêm")
+[AI 365](https://nld.com.vn/ai-365.htm "AI 365")
+[Công nghệ số](https://nld.com.vn/ai-365/cong-nghe-so.htm "Công nghệ số") [Bảo mật](https://nld.com.vn/ai-365/bao-mat.htm "Bảo mật") [Mạng xã hội](https://nld.com.vn/ai-365/mang-xa-hoi.htm "Mạng xã hội") [Giải trí cùng AI](https://nld.com.vn/ai-365/giai-tri-cung-ai.htm "Giải trí cùng AI")
+[Du lịch xanh](https://nld.com.vn/du-lich-xanh.htm "Du lịch xanh")
+[Tiêu điểm](https://nld.com.vn/du-lich-xanh/tieu-diem.htm "Tiêu điểm") [Điểm đến](https://nld.com.vn/du-lich-xanh/diem-den.htm "Điểm đến") [Ẩm thực](https://nld.com.vn/du-lich-xanh/am-thuc.htm "Ẩm thực") [Đừng bỏ lỡ](https://nld.com.vn/du-lich-xanh/dung-bo-lo.htm "Đừng bỏ lỡ")
+[Phụ nữ](https://phunu.nld.com.vn/ "Chuyên trang Phụ nữ")
+[Khoẻ - Đẹp](https://phunu.nld.com.vn/lam-dep.htm "Khoẻ - Đẹp") [Tâm sự](https://phunu.nld.com.vn/tam-su.htm "Tâm sự") [Chuyện của Sao](https://phunu.nld.com.vn/chuyen-cua-sao.htm "Chuyện của Sao") [Món ngon](https://phunu.nld.com.vn/mon-ngon.htm "Món ngon") [Điểm đến](https://phunu.nld.com.vn/diem-den.htm "Điểm đến") [Tiêu dùng thông minh](https://phunu.nld.com.vn/tieu-dung-thong-minh.htm "Tiêu dùng thông minh") [Video](https://phunu.nld.com.vn/video-clip.htm "Video") [Bản lĩnh sống](https://phunu.nld.com.vn/chuyen-trang-phu-nu/ban-linh-song.htm "Bản lĩnh sống")
+[xem thêm](javascript:; "xem thêm")
+[Gia đình](https://nld.com.vn/gia-dinh.htm "Gia đình")
+[Bí quyết làm đẹp](https://nld.com.vn/gia-dinh/bi-quyet-lam-dep.htm "Bí quyết làm đẹp") [Cha mẹ và con cái](https://nld.com.vn/gia-dinh/cha-me-va-con-cai.htm "Cha mẹ và con cái") [Không gian sống](https://nld.com.vn/gia-dinh/khong-gian-song.htm "Không gian sống")
+[Địa ốc](https://diaoc.nld.com.vn "Địa ốc")
+[Dự án](https://diaoc.nld.com.vn/du-an.htm "Dự án") [Thị trường](https://diaoc.nld.com.vn/thi-truong-nha-dat.htm "Thị trường") [Nhà đẹp](https://diaoc.nld.com.vn/nha-dep.htm "Nhà đẹp") [Doanh nhân](https://diaoc.nld.com.vn/doanh-nghiep-doanh-nhan.htm "Doanh nhân") [Số hóa](https://diaoc.nld.com.vn/so-hoa.htm "Số hóa") [Vật tư](https://diaoc.nld.com.vn/vat-tu.htm "Vật tư") [Tài chính](https://diaoc.nld.com.vn/tai-chinh-bds.htm "Tài chính")
+[xem thêm](javascript:; "xem thêm")
+[Truy vết mạng xã hội](https://nld.com.vn/truy-vet-mang-xa-hoi.htm "Truy vết mạng xã hội")
+[Hỏi nóng đáp nhanh](https://nld.com.vn/hoi-nong-dap-nhanh.htm "Hỏi nóng đáp nhanh")
+[Đời sống](https://nld.com.vn/doi-song.htm "Đời sống")
+[Khoa học](https://nld.com.vn/khoa-hoc.htm "Khoa học")
+[Giải mai vàng](https://maivang.nld.com.vn/guong-mat-ung-vien.htm "Giải mai vàng")
+[Vùng miền](https://nld.com.vn/vung-mien.htm "Vùng miền")
+[Người Việt yêu sử Việt](https://nld.com.vn/nguoi-viet-yeu-su-viet.htm "Người Việt yêu sử Việt")
+[Dành cho bạn đọc VIP](https://nld.com.vn/danh-cho-ban-doc-vip.htm "Dành cho bạn đọc VIP")
+[Tiêu điểm quốc tế](https://nld.com.vn/danh-cho-ban-doc-vip/tieu-diem-quoc-te.htm "Tiêu điểm quốc tế") [Chuyện thương trường](https://nld.com.vn/danh-cho-ban-doc-vip/chuyen-thuong-truong.htm "Chuyện thương trường") [Bí quyết cuộc sống](https://nld.com.vn/danh-cho-ban-doc-vip/bi-quyet-cuoc-song.htm "Bí quyết cuộc sống") [Hồ sơ "nóng"](https://nld.com.vn/danh-cho-ban-doc-vip/ho-so-nong.htm "Hồ sơ "nóng"") ["Độc", lạ đó đây](https://nld.com.vn/danh-cho-ban-doc-vip/doc-la-do-day.htm ""Độc", lạ đó đây")
+[xem thêm](javascript:; "xem thêm")
+[ Video ](https://nld.com.vn/video.htm "Video") [ Photo ](https://nld.com.vn/photo.htm "Photo") [ Longform ](https://nld.com.vn/longform.htm "Longform") [ Infographic ](https://nld.com.vn/infographic.htm "Infographic")
+[ Lý tưởng sống ](https://nld.com.vn/ly-tuong-song.htm "Lý tưởng sống") [ Nói thẳng ](https://nld.com.vn/noi-thang.htm "Nói thẳng") [ Tin độc quyền ](https://nld.com.vn/doc-quyen.htm "Tin độc quyền") [ Thị trường ](https://thitruong.nld.com.vn/ "Thị trường") Liên hệ  [ Thông tin toà soạn ](javascript:; "Thông tin toà soạn") [ Liên hệ quảng cáo ](javascript:; "Liên hệ quảng cáo")
+[ ](https://www.facebook.com/nguoilaodong "Facebook") [ ](https://www.youtube.com/channel/UCzkyOx_0O1pGOqHiUMOe2KQ?sub_confirmation=1 "Youtube") [ ](https://zalo.me/4417973660626754335 "Zalo") [ ](https://nld.com.vn/rss.htm "Rss")
+[ ![Thủ tướng Lê Minh Hưng chủ trì lễ đón chính thức 
+Thủ tướng Campuchia](https://nld.mediacdn.vn/zoom/536_335/291774122806476800/2026/6/8/1a-17808919488221892971291-17-0-433-665-crop-17808921495801477948529.jpg) ](https://nld.com.vn/thu-tuong-le-minh-hung-chu-tri-le-don-chinh-thuc-thu-tuong-campuchia-196260608104301242.htm "Thủ tướng Lê Minh Hưng chủ trì lễ đón chính thức 
+Thủ tướng Campuchia")
+##  [Thủ tướng Lê Minh Hưng chủ trì lễ đón chính thức Thủ tướng Campuchia](https://nld.com.vn/thu-tuong-le-minh-hung-chu-tri-le-don-chinh-thuc-thu-tuong-campuchia-196260608104301242.htm "Thủ tướng Lê Minh Hưng chủ trì lễ đón chính thức 
+Thủ tướng Campuchia")
+(NLĐO) - Thủ tướng Campuchia Hun Manet thăm chính thức Việt Nam và tham dự Diễn đàn Tương lai ASEAN (AFF) theo lời mời của Thủ tướng Lê Minh Hưng.
+[ ![Phó Thủ tướng Phạm Thị Thanh Trà chủ trì hội thảo về mộ liệt sĩ tập thể tại Công viên Lê Thị Riêng](https://nld.mediacdn.vn/zoom/253_158/291774122806476800/2026/6/8/01-chs-17808843082291637797209-0-0-1584-2534-crop-1780884898449905867756.png) ](https://nld.com.vn/pho-thu-tuong-pham-thi-thanh-tra-chu-tri-hoi-thao-ve-mo-liet-si-tap-the-tai-cong-vien-le-thi-rieng-196260608082736923.htm "Phó Thủ tướng Phạm Thị Thanh Trà chủ trì hội thảo về mộ liệt sĩ tập thể tại Công viên Lê Thị Riêng")
+##  [Phó Thủ tướng Phạm Thị Thanh Trà chủ trì hội thảo về mộ liệt sĩ tập thể tại Công viên Lê Thị Riêng](https://nld.com.vn/pho-thu-tuong-pham-thi-thanh-tra-chu-tri-hoi-thao-ve-mo-liet-si-tap-the-tai-cong-vien-le-thi-rieng-196260608082736923.htm "Phó Thủ tướng Phạm Thị Thanh Trà chủ trì hội thảo về mộ liệt sĩ tập thể tại Công viên Lê Thị Riêng")
+[ ![Bộ Công Thương có chỉ đạo mới về xăng E10](https://nld.mediacdn.vn/zoom/253_158/291774122806476800/2026/6/8/xang-e10-178004185069038763189-0-34-475-794-crop-17808884232561676525589.jpeg) ](https://nld.com.vn/bo-cong-thuong-co-chi-dao-moi-ve-xang-e10-196260608101742421.htm "Bộ Công Thương có chỉ đạo mới về xăng E10")
+##  [Bộ Công Thương có chỉ đạo mới về xăng E10](https://nld.com.vn/bo-cong-thuong-co-chi-dao-moi-ve-xang-e10-196260608101742421.htm "Bộ Công Thương có chỉ đạo mới về xăng E10")
+##  [Talkshow: "World Cup 2026 - Quy mô và khác biệt"](https://nld.com.vn/talkshow-world-cup-2026-quy-mo-va-khac-biet-19626060810012023.htm "Talkshow: "World Cup 2026 - Quy mô và khác biệt"")
+(NLĐO) - 10 giờ ngày 8-6, Báo Người Lao Động tổ chức talkshow "World Cup 2026 - Quy mô và khác biệt", giúp độc giả có cái nhìn tổng quan về giải đấu tại Bắc Mỹ.
+##  [Chủ tịch Trung Quốc Tập Cận Bình đến Triều Tiên](https://nld.com.vn/chu-tich-trung-quoc-tap-can-binh-den-trieu-tien-196260608111335225.htm "Chủ tịch Trung Quốc Tập Cận Bình đến Triều Tiên")
+(NLĐO) - Chuyến thăm của ông Tập Cận Bình đánh dấu lần đầu tiên nhà lãnh đạo Trung Quốc tới Triều Tiên kể từ năm 2019, nhằm thắt chặt truyền thống hợp tác.
+##  [EVN nói gì về khoản tiền gửi, đầu tư tài chính ngắn hạn hơn 152.000 tỉ đồng ?](https://nld.com.vn/evn-noi-gi-ve-khoan-tien-gui-dau-tu-tai-chinh-ngan-han-hon-152000-ti-dong-196260608074759259.htm "EVN nói gì về khoản tiền gửi, đầu tư tài chính ngắn hạn hơn 152.000 tỉ đồng ?")
+(NLĐO) - Theo EVN, số dư tiền gửi hơn 152.000 tỉ đồng cần được xem xét tổng thể cùng với số nợ phải trả của EVN và các đơn vị thành viên.
+![icon](https://static.mediacdn.vn/nld.com.vn/image/icon-trending.svg)
+###  [Cuộc thi viết "Tôi yêu thành phố của tôi"](https://nld.com.vn/dong-su-kien/cuoc-thi-viet-toi-yeu-thanh-pho-cua-toi-6930.htm "Cuộc thi viết "Tôi yêu thành phố của tôi"")
+###  [FIFA World Cup 2026](https://nld.com.vn/dong-su-kien/fifa-world-cup-2026-6931.htm "FIFA World Cup 2026")
+###  [Hiểu đúng về xăng E10 sắp bán đại trà](https://nld.com.vn/dong-su-kien/hieu-dung-ve-xang-e10-sap-ban-dai-tra-6941.htm "Hiểu đúng về xăng E10 sắp bán đại trà")
+###  [Thi tốt nghiệp THPT 2026](https://nld.com.vn/dong-su-kien/thi-tot-nghiep-thpt-2026-6929.htm "Thi tốt nghiệp THPT 2026")
+###  [Giải Pickleball Báo Người Lao Động 2026](https://nld.com.vn/dong-su-kien/giai-pickleball-bao-nguoi-lao-dong-2026-6943.htm "Giải Pickleball Báo Người Lao Động 2026")
+###  [Biến động giá vàng](https://nld.com.vn/dong-su-kien/bien-dong-gia-vang-3311.htm "Biến động giá vàng")
+###  [Thời tiết hôm nay](https://nld.com.vn/dong-su-kien/thoi-tiet-hom-nay-6893.htm "Thời tiết hôm nay")
+###  [Xung đột Nga - Ukraine](https://nld.com.vn/dong-su-kien/xung-dot-nga-ukraine-1020.htm "Xung đột Nga - Ukraine")
+###  [Cấp bách tiết kiệm năng lượng](https://nld.com.vn/dong-su-kien/cap-bach-tiet-kiem-nang-luong-6909.htm "Cấp bách tiết kiệm năng lượng")
+###  [Vườn chim Hai Chìa "kêu cứu"](https://nld.com.vn/dong-su-kien/vuon-chim-hai-chia-keu-cuu-6939.htm "Vườn chim Hai Chìa "kêu cứu"")
+[ ![Giải Pickleball](https://static.mediacdn.vn/nld.com.vn/banner_pickleball_NLD2026.jpg) ](https://nld.com.vn/dong-su-kien/giai-pickleball-bao-nguoi-lao-dong-2026-6943.htm "Giải Pickleball") [ ![Ứng dụng Tuyên giáo và Dân vận kết nối thông tin chính thống trên không gian số](https://static.mediacdn.vn/nld.com.vn/images/banner-tuyen-giao-pc.jpg) ](https://nld.com.vn/ung-dung-tuyen-giao-va-dan-van-ket-noi-thong-tin-chinh-thong-tren-khong-gian-so-196260215141843981.htm "Ứng dụng Tuyên giáo và Dân vận kết nối thông tin chính thống trên không gian số")
+Thông tin tài khoản
+Xin chào! 
+Tài khoản bạn đọc VIP
+Ngày đến hạn
+Gia hạn tài khoản
+##  Tin nóng
+###  [Giải Pickleball Báo Người Lao Động năm 2026: Chốt danh sách đăng ký thi đấu ngày 8-6](https://nld.com.vn/giai-pickleball-bao-nguoi-lao-dong-nam-2026-chot-danh-sach-dang-ky-thi-dau-ngay-8-6-196260608140102113.htm "Giải Pickleball Báo Người Lao Động năm 2026: Chốt danh sách đăng ký thi đấu ngày 8-6")
+###  [Khánh thành biểu tượng đôi bàn tay nâng đỡ trái sầu riêng ở Đồng Tháp](https://nld.com.vn/khanh-thanh-bieu-tuong-doi-ban-tay-nang-do-trai-sau-rieng-o-dong-thap-196260608135646724.htm "Khánh thành biểu tượng đôi bàn tay nâng đỡ trái sầu riêng ở Đồng Tháp")
+###  [Ông Donald Trump: Iran và Israel tấn công nhau không ảnh hưởng thỏa thuận hoà bình](https://nld.com.vn/ong-donald-trump-iran-va-israel-tan-cong-nhau-khong-anh-huong-thoa-thuan-hoa-binh-196260608134159585.htm "Ông Donald Trump: Iran và Israel tấn công nhau không ảnh hưởng thỏa thuận hoà bình")
+###  [Sở GD-ĐT TPHCM cảnh báo khẩn trước kỳ thi tốt nghiệp THPT](https://nld.com.vn/so-gd-dt-tphcm-canh-bao-khan-truoc-ky-thi-tot-nghiep-thpt-196260608133051432.htm "Sở GD-ĐT TPHCM cảnh báo khẩn trước kỳ thi tốt nghiệp THPT")
+###  [Ruộng muối, vườn cây "kể chuyện" làm du lịch](https://nld.com.vn/ruong-muoi-vuon-cay-ke-chuyen-lam-du-lich-196260607220908478.htm "Ruộng muối, vườn cây "kể chuyện" làm du lịch")
+###  [Chiều 8-6, giá vàng rớt gần 3 triệu đồng/lượng, bạc thủng mốc 70 triệu đồng/kg](https://nld.com.vn/chieu-8-6-gia-vang-rot-gan-3-trieu-dong-luong-bac-thung-moc-70-trieu-dong-kg-196260608131324804.htm "Chiều 8-6, giá vàng rớt gần 3 triệu đồng/lượng, bạc thủng mốc 70 triệu đồng/kg")
+###  [Phê duyệt dự án hơn 6.900 tỉ tại khu vực phía Nam Đà Nẵng](https://nld.com.vn/phe-duyet-du-an-hon-6900-ti-tai-khu-vuc-phia-nam-da-nang-196260608111402567.htm "Phê duyệt dự án hơn 6.900 tỉ tại khu vực phía Nam Đà Nẵng")
+###  [Chỉ đạo mới về xăng E10](https://nld.com.vn/podcast/chi-dao-moi-ve-xang-e10-196260608122312832.htm "Chỉ đạo mới về xăng E10")
+###  [VIDEO: Nghỉ hè, học sinh ở Phú Quốc vào rừng “săn lộc trời”](https://nld.com.vn/video-nghi-he-hoc-sinh-o-phu-quoc-vao-rung-san-loc-troi-196260608115350463.htm "VIDEO: Nghỉ hè, học sinh ở Phú Quốc vào rừng “săn lộc trời”")
+###  [TPHCM: Anh trai sát hại em ruột vì tranh chấp lối đi](https://nld.com.vn/tphcm-anh-trai-sat-hai-em-ruot-vi-tranh-chap-loi-di-196260608115036968.htm "TPHCM: Anh trai sát hại em ruột vì tranh chấp lối đi")
+[ ![Cuộc thi tìm hiểu ngành nghề nông thôn và bảo vệ môi trường nông thôn TP Hồ Chí Minh](https://static.mediacdn.vn/zoom/300_250/nld/images/BannerCTMTNT.jpg) ](https://nld.com.vn/dong-su-kien/cuoc-thi-tim-hieu-nganh-nghe-nong-thon-va-bao-ve-moi-truong-nong-thon-tphcm-6944.htm%0A "Cuộc thi tìm hiểu ngành nghề nông thôn và bảo vệ môi trường nông thôn TP Hồ Chí Minh")
+##  [ Dành cho bạn đọc VIP ](https://nld.com.vn/danh-cho-ban-doc-vip.htm "DÀNH CHO BẠN ĐỌC VIP")
+Chuyên mục báo chí đặc biệt, có thu phí
+[Đăng ký bạn đọc VIP](https://nld.com.vn/dang-ky-danh-cho-ban-doc-vip.htm "Đăng ký bạn đọc VIP")
+[ ![Ông chủ Vinamit chia sẻ bí quyết tự chữa lành, sống khỏe](https://nld.mediacdn.vn/zoom/253_158/291774122806476800/2026/5/27/anh-bia-1779860173804365825636-349-0-1599-2000-crop-1779860210775539762144.jpg) ](https://nld.com.vn/ong-chu-vinamit-chia-se-bi-quyet-tu-chua-lanh-song-khoe-196260524013901378.htm "Ông chủ Vinamit chia sẻ bí quyết tự chữa lành, sống khỏe")
+###  [Ông chủ Vinamit chia sẻ bí quyết tự chữa lành, sống khỏe](https://nld.com.vn/ong-chu-vinamit-chia-se-bi-quyet-tu-chua-lanh-song-khoe-196260524013901378.htm "Ông chủ Vinamit chia sẻ bí quyết tự chữa lành, sống khỏe")
+[ ![Bí ẩn cuộc đời Đại tư mã Ngô Văn Sở](https://nld.mediacdn.vn/zoom/253_158/291774122806476800/2026/5/20/soi-1-17792906886001038893223-50-0-496-714-crop-17792906993121620036390.jpeg) ](https://nld.com.vn/bi-an-cuoc-doi-dai-tu-ma-ngo-van-so-196260520222857582.htm "Bí ẩn cuộc đời Đại tư mã Ngô Văn Sở")
+###  [Bí ẩn cuộc đời Đại tư mã Ngô Văn Sở](https://nld.com.vn/bi-an-cuoc-doi-dai-tu-ma-ngo-van-so-196260520222857582.htm "Bí ẩn cuộc đời Đại tư mã Ngô Văn Sở")
+[ ![Chuyện chưa kể về 2 viên đá quý bảo vật quốc gia](https://nld.mediacdn.vn/zoom/253_158/291774122806476800/2026/5/12/da-quy-17785579353621184282217-90-0-1340-2000-crop-1778557941209272139997.jpg) ](https://nld.com.vn/chuyen-chua-ke-ve-2-vien-da-quy-bao-vat-quoc-gia-196260511101638788.htm "Chuyện chưa kể về 2 viên đá quý bảo vật quốc gia")
+###  [Chuyện chưa kể về 2 viên đá quý bảo vật quốc gia](https://nld.com.vn/chuyen-chua-ke-ve-2-vien-da-quy-bao-vat-quoc-gia-196260511101638788.htm "Chuyện chưa kể về 2 viên đá quý bảo vật quốc gia")
+[ ![Kỳ 2: Ly kỳ vụ trộm ấn vàng của Hoàng hậu Nam Phương ](https://nld.mediacdn.vn/zoom/253_158/291774122806476800/2026/5/2/anh-chup-man-hinh-2026-05-02-luc-131359-17777034172721834266745-0-18-283-471-crop-177770412700833148396.png) ](https://nld.com.vn/ky-2-ly-ky-vu-trom-an-vang-cua-hoang-hau-nam-phuong-196260502134501981.htm "Kỳ 2: Ly kỳ vụ trộm ấn vàng của Hoàng hậu Nam Phương ")
+###  [Kỳ 2: Ly kỳ vụ trộm ấn vàng của Hoàng hậu Nam Phương ](https://nld.com.vn/ky-2-ly-ky-vu-trom-an-vang-cua-hoang-hau-nam-phuong-196260502134501981.htm "Kỳ 2: Ly kỳ vụ trộm ấn vàng của Hoàng hậu Nam Phương ")
+[ ![Ly kỳ vụ trộm ấn vàng nặng 4,9 kg vàng của Hoàng hậu Nam Phương](https://nld.mediacdn.vn/zoom/253_158/291774122806476800/2026/5/1/anh-chup-man-hinh-2026-05-02-luc-000714-17776563383541599446988-0-0-298-476-crop-17776570045251575802128.png) ](https://nld.com.vn/ly-ly-vu-trom-an-vang-nang-49-kg-vang-cua-hoang-hau-nam-phuong-196260502004241702.htm "Ly kỳ vụ trộm ấn vàng nặng 4,9 kg vàng của Hoàng hậu Nam Phương")
+###  [Ly kỳ vụ trộm ấn vàng nặng 4,9 kg vàng của Hoàng hậu Nam Phương](https://nld.com.vn/ly-ly-vu-trom-an-vang-nang-49-kg-vang-cua-hoang-hau-nam-phuong-196260502004241702.htm "Ly kỳ vụ trộm ấn vàng nặng 4,9 kg vàng của Hoàng hậu Nam Phương")
+[ ![Người chỉ huy xe tăng 390 kể thời khắc lịch sử húc đổ cổng Dinh Độc Lập](https://nld.mediacdn.vn/zoom/253_158/291774122806476800/2026/4/29/ava-thuong-17774758312071894152183.png) ](https://nld.com.vn/nguoi-chi-huy-xe-tang-390-ke-thoi-khac-lich-su-huc-do-cong-dinh-doc-lap-196260429222509968.htm "Người chỉ huy xe tăng 390 kể thời khắc lịch sử húc đổ cổng Dinh Độc Lập")
+###  [Người chỉ huy xe tăng 390 kể thời khắc lịch sử húc đổ cổng Dinh Độc Lập](https://nld.com.vn/nguoi-chi-huy-xe-tang-390-ke-thoi-khac-lich-su-huc-do-cong-dinh-doc-lap-196260429222509968.htm "Người chỉ huy xe tăng 390 kể thời khắc lịch sử húc đổ cổng Dinh Độc Lập")
+[ ![Dự báo “nóng”: Giá vàng, bạc, dầu đối mặt biến động dữ dội giữa căng thẳng ở Trung Đông](https://nld.mediacdn.vn/zoom/253_158/291774122806476800/2026/3/1/vang-h2-17724063151921640819933-0-0-667-1067-crop-1772406319279252478681.png) ](https://nld.com.vn/du-bao-nong-gia-vang-bac-doi-mat-bien-dong-du-doi-giua-cang-thang-o-trung-dong-196260302031305528.htm "Dự báo “nóng”: Giá vàng, bạc, dầu đối mặt biến động dữ dội giữa căng thẳng ở Trung Đông")
+###  [Dự báo “nóng”: Giá vàng, bạc, dầu đối mặt biến động dữ dội giữa căng thẳng ở Trung Đông](https://nld.com.vn/du-bao-nong-gia-vang-bac-doi-mat-bien-dong-du-doi-giua-cang-thang-o-trung-dong-196260302031305528.htm "Dự báo “nóng”: Giá vàng, bạc, dầu đối mặt biến động dữ dội giữa căng thẳng ở Trung Đông")
+[ ![Chuyện ở nghĩa địa cá Ông lớn nhất Việt Nam](https://nld.mediacdn.vn/zoom/253_158/291774122806476800/2026/2/14/nghia-dia-ca-ong-17710892439011597396758-0-77-1080-1805-crop-1771090230494958972770.png) ](https://nld.com.vn/chuyen-o-nghia-dia-ca-ong-lon-nhat-viet-nam-19626021500345702.htm "Chuyện ở nghĩa địa cá Ông lớn nhất Việt Nam")
+###  [Chuyện ở nghĩa địa cá Ông lớn nhất Việt Nam](https://nld.com.vn/chuyen-o-nghia-dia-ca-ong-lon-nhat-viet-nam-19626021500345702.htm "Chuyện ở nghĩa địa cá Ông lớn nhất Việt Nam")
+[ ![Một doanh nhân ở Hải Phòng sở hữu 18 bảo vật quốc gia](https://nld.mediacdn.vn/zoom/253_158/291774122806476800/2026/2/21/thumb-edit-hien-vat-quoc-gia-7-01-17716471409341453383780-17716475666151091700745.jpeg) ](https://nld.com.vn/mot-danh-nhan-o-hai-phong-so-huu-18-bao-vat-quoc-gia-196260221112340296.htm "Một doanh nhân ở Hải Phòng sở hữu 18 bảo vật quốc gia")
+###  [Một doanh nhân ở Hải Phòng sở hữu 18 bảo vật quốc gia](https://nld.com.vn/mot-danh-nhan-o-hai-phong-so-huu-18-bao-vat-quoc-gia-196260221112340296.htm "Một doanh nhân ở Hải Phòng sở hữu 18 bảo vật quốc gia")
+[ ![Bí ẩn ngôi mộ cổ độc nhất vô nhị ở Việt Nam](https://nld.mediacdn.vn/zoom/253_158/291774122806476800/2026/2/19/bahasa-inggris-17714949612001097481750-0-131-1080-1859-crop-1771495127227853738858.png) ](https://nld.com.vn/bi-an-ngoi-mo-co-doc-nhat-vo-nhi-o-viet-nam-196260219170928488.htm "Bí ẩn ngôi mộ cổ độc nhất vô nhị ở Việt Nam")
+###  [Bí ẩn ngôi mộ cổ độc nhất vô nhị ở Việt Nam](https://nld.com.vn/bi-an-ngoi-mo-co-doc-nhat-vo-nhi-o-viet-nam-196260219170928488.htm "Bí ẩn ngôi mộ cổ độc nhất vô nhị ở Việt Nam")
+[ ![Sao Việt tuổi Ngựa đình đám của showbiz Việt ](https://nld.mediacdn.vn/zoom/253_158/291774122806476800/2026/2/17/1771056802-screenshot6-1717-width1781height1184-17713076380802096392581-0-0-462-740-crop-17713079503101350732902.jpg) ](https://nld.com.vn/sao-viet-tuoi-ngua-dinh-dam-cua-showbiz-viet-196260217125951816.htm "Sao Việt tuổi Ngựa đình đám của showbiz Việt ")
+###  [Sao Việt tuổi Ngựa đình đám của showbiz Việt ](https://nld.com.vn/sao-viet-tuoi-ngua-dinh-dam-cua-showbiz-viet-196260217125951816.htm "Sao Việt tuổi Ngựa đình đám của showbiz Việt ")
+[ ![Những ngôi nhà rường cổ ở Huế: Sự thật vua Nguyễn ban lệnh không được dùng gỗ lim](https://nld.mediacdn.vn/zoom/253_158/291774122806476800/2026/2/13/go-lim-12-1771006755303756632214-0-182-1440-2486-crop-1771007754713516521997.jpg) ](https://nld.com.vn/nhung-ngoi-nha-ruong-co-o-hue-su-that-vua-nguyen-ban-lenh-khong-duoc-dung-go-lim-196260214013925362.htm "Những ngôi nhà rường cổ ở Huế: Sự thật vua Nguyễn ban lệnh không được dùng gỗ lim")
+###  [Những ngôi nhà rường cổ ở Huế: Sự thật vua Nguyễn ban lệnh không được dùng gỗ lim](https://nld.com.vn/nhung-ngoi-nha-ruong-co-o-hue-su-that-vua-nguyen-ban-lenh-khong-duoc-dung-go-lim-196260214013925362.htm "Những ngôi nhà rường cổ ở Huế: Sự thật vua Nguyễn ban lệnh không được dùng gỗ lim")
+[ ![Đi tìm dấu tích tuyến đường sắt răng cưa độc đáo nhất thế giới](https://nld.mediacdn.vn/zoom/253_158/291774122806476800/2026/2/14/ava-tau-lua-thuong-17710460942081436248744.png) ](https://nld.com.vn/di-tim-dau-tich-tuyen-duong-sat-rang-cua-doc-dao-nhat-the-gioi-196260214122442315.htm "Đi tìm dấu tích tuyến đường sắt răng cưa độc đáo nhất thế giới")
+###  [Đi tìm dấu tích tuyến đường sắt răng cưa độc đáo nhất thế giới](https://nld.com.vn/di-tim-dau-tich-tuyen-duong-sat-rang-cua-doc-dao-nhat-the-gioi-196260214122442315.htm "Đi tìm dấu tích tuyến đường sắt răng cưa độc đáo nhất thế giới")
+[ ![Đằng sau cú sập của vàng, bạc: Xuất hiện dự báo tham vọng - giá bạc vượt 300 USD/ounce](https://nld.mediacdn.vn/zoom/253_158/291774122806476800/2026/2/4/sbj-7-17702016303371875359999-49-0-1649-2560-crop-17702018595081025642712.jpg) ](https://nld.com.vn/dang-sau-cu-sap-cua-vang-bac-xuat-hien-du-bao-tham-vong-gia-bac-vuot-300-usd-ounce-196260204174612382.htm "Đằng sau cú sập của vàng, bạc: Xuất hiện dự báo tham vọng - giá bạc vượt 300 USD/ounce")
+###  [Đằng sau cú sập của vàng, bạc: Xuất hiện dự báo tham vọng - giá bạc vượt 300 USD/ounce](https://nld.com.vn/dang-sau-cu-sap-cua-vang-bac-xuat-hien-du-bao-tham-vong-gia-bac-vuot-300-usd-ounce-196260204174612382.htm "Đằng sau cú sập của vàng, bạc: Xuất hiện dự báo tham vọng - giá bạc vượt 300 USD/ounce")
+[ ![Báo Người Lao Động: Tin tức mới nhất 24h, tin nhanh, nóng nhất](https://static.mediacdn.vn/nld.com.vn/image/logo-footer.png) ](https://nld.com.vn/ "Báo Người Lao Động: Tin tức mới nhất 24h, tin nhanh, nóng nhất")
+[Thời sự](https://nld.com.vn/thoi-su.htm "Thời sự") [Quốc tế](https://nld.com.vn/quoc-te.htm "Quốc tế") [Lao động](https://nld.com.vn/lao-dong.htm "Lao động") [Bạn đọc](https://nld.com.vn/ban-doc.htm "Bạn đọc") [Kinh tế](https://nld.com.vn/kinh-te.htm "Kinh tế") [Sức khỏe](https://nld.com.vn/suc-khoe.htm "Sức khỏe") [Giáo dục](https://nld.com.vn/giao-duc-khoa-hoc.htm "Giáo dục") [Pháp luật](https://nld.com.vn/phap-luat.htm "Pháp luật") [Văn hóa - Văn nghệ](https://nld.com.vn/van-hoa-van-nghe.htm "Văn hóa - Văn nghệ") [Giải trí](https://nld.com.vn/giai-tri.htm "Giải trí") [Thể thao](https://nld.com.vn/the-thao.htm "Thể thao") [AI 365](https://nld.com.vn/ai-365.htm "AI 365") [Du lịch xanh](https://nld.com.vn/du-lich-xanh.htm "Du lịch xanh") [Phụ nữ](https://phunu.nld.com.vn/ "Phụ nữ") [Gia đình](https://nld.com.vn/gia-dinh.htm "Gia đình") [Địa ốc](https://diaoc.nld.com.vn "Địa ốc")
+Báo Người Lao Động Điện Tử
+Cơ quan chủ quản: Thành ủy Thành phố Hồ Chí Minh 
+  
+
+© Giấy phép số 115/GP- BTTTT cấp ngày![](https://static.mediacdn.vn/nld.com.vn/image/ngay-cap-phep.png)
+Tổng Biên tập: TÔ ĐÌNH TUÂN 
+Phó Tổng Biên tập: DƯƠNG QUANG, BÙI THANH LIÊM,  
+LÊ CƯỜNG  
+Tổng TKTS: NGUYỄN TỐ BÌNH 
+Trụ sở chính
+127 Võ Văn Tần, Phường Xuân Hòa, TPHCM 
+Điện thoại:028-3930.6262 / 028-3930.5376
+Fax: 028-3930.4707
+Liên hệ quảng cáo
+  * LIÊN HỆ QUẢNG CÁO BÁO ĐIỆN TỬ
+Email: lienhequangbadoanhnghiep@gmail.com
+Điện thoại: 0988154838
+* * *
+  * LIÊN HỆ QUẢNG CÁO BÁO IN
+Email: quangcao@nld.com.vn
+Điện thoại: 028 39303574
+
+
+Theo dõi chúng tôi
+[ ![Facebook](https://static.mediacdn.vn/nld.com.vn/image/icon-fb.svg) ](https://www.facebook.com/nguoilaodong "Facebook") [ ![Youtube](https://static.mediacdn.vn/nld.com.vn/image/icon-youtube.svg) ](https://www.youtube.com/channel/UCzkyOx_0O1pGOqHiUMOe2KQ?sub_confirmation=1 "Youtube") [ ![Zalo](https://static.mediacdn.vn/nld.com.vn/image/icon-zalo.svg) ](https://zalo.me/4417973660626754335 "Zalo") [ ![Rss](https://static.mediacdn.vn/nld.com.vn/image/icon-rss.svg) ](https://nld.com.vn/rss.htm "Rss")
+Tải ứng dụng đọc báo Người Lao Động
+[ ![Download](https://static.mediacdn.vn/nld.com.vn/image/icon-app-store.svg) ](https://apps.apple.com/vn/app/ng%C6%B0%E1%BB%9Di-lao-%C4%91%E1%BB%99ng/id862310588?l=vi "Download") [ ![Download](https://static.mediacdn.vn/nld.com.vn/image/icon-google-play.svg) ](https://play.google.com/store/apps/details?id=vcc.mobilenewsreader.nguoilaodong "Download")
+Bản quyền thuộc về Báo Người Lao Động. Các website khác đã được chúng tôi đồng ý cho khai thác thông tin, khi đăng lại phải ghi rõ nguồn: Theo Báo Người Lao Động (www.nld.com.vn). 
+[ ![Lên đầu](https://static.mediacdn.vn/nld.com.vn/image/icon-back-to-top.svg) Top ](javascript:; "Back To Top")
+Thông báo
+Đóng
+Gia hạn tài khoản bạn đọc VIP
+Chọn phương thức thanh toán
+Tài khoản bạn đọc VIP sẽ được gia hạn từ tới 
+[Chọn phương thức thanh toán](javascript:;)
+Chọn một trong số các hình thức sau
+Yêu cầu xuất hóa đơn điện tử
+Tên công ty
+Mã số thuê
+Địa chỉ
+Địa chỉ email
+Lưu thông tin hóa đơn
+(Lưu ý: Nếu quý độc giả không nhập thông tin hóa đơn, Dân Việt sẽ xuất hóa đơn điện tử theo thông tin tài khoản cá nhân quý khách đăng ký) 
+Ngân hàng TMCP Sài Gòn Công thương - Hội sở ( Saigon Bank ) 
+Tên tài khoản: BÁO NGƯỜI LAO ĐỘNG
+Số tài khoản: 000170406123456
+Nội dung chuyển khoản: **-**
+Lưu ý: Bạn đọc lưu ý nhập chính xác Nội dung chuyển khoản ở trên. Gói đọc báo có thu phí sẽ được kích hoạt trong vòng 5 giờ (giờ hành chính) sau khi Báo Người Lao Động nhận được thanh toán của bạn. 
+Tôi đồng ý với  [điều khoản sử dụng và chính sách thanh toán](https://nld.com.vn/static/dieu-khoan-va-chinh-sach.htm "Điều khoản") của nld.com.vn
+[Thanh toán](javascript:; "THANH TOÁN")
+**Hướng dẫn thanh toán**
+  * _Bước 1_ : **Mở** ứng dụng **Zalopay**
+  * _Bước 2_ : Chọn **"Thanh Toán"**![](https://static.mediacdn.vn/nld/images/qr-scan-zlp.png) và quét mã QR
+  * _Bước 3_ : **Xác nhận thanh toán** ở ứng dụng
+
+
+Thông báo
+Đăng nhập

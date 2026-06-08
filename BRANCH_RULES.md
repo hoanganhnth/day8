@@ -7,11 +7,17 @@ bảo repo cuối cùng đúng yêu cầu bài nhóm.
 
 | Branch | Nhiệm vụ | Chỉ sửa các file/thư mục này |
 |---|---|---|
-| `feature/data-preprocessing` | Data inventory, chuẩn hóa dữ liệu, data summary | `group_project/data_summary.md`, `group_project/data/` nếu nhóm tạo data chung, `individual_submissions/<your-folder>/` của chính người đó |
-| `feature/retrieval-pipeline` | Semantic search, lexical search, hybrid retrieval, fallback retrieval | `group_project/src/retrieval.py`, `group_project/src/utils.py`, có thể đọc từ `individual_submissions/` nhưng không sửa bài cá nhân của người khác |
+| `feature/data-preprocessing` | Data inventory, chuẩn hóa dữ liệu, data summary | `group_project/data_summary.md`, `group_project/data/` nếu nhóm tạo data chung |
+| `feature/retrieval-pipeline` | Semantic search, lexical search, hybrid retrieval, fallback retrieval | `group_project/src/retrieval.py`, `group_project/src/utils.py` |
 | `feature/generation-citation` | Generation, citation formatting, source formatting, answer policy | `group_project/src/generation.py`, `group_project/src/utils.py` |
 | `feature/chatbot-ui` | Streamlit UI, chat history, source display | `group_project/app.py` |
 | `feature/evaluation-report` | Golden dataset, A/B evaluation, results report | `group_project/evaluation/`, `group_project/README.md` phần evaluation |
+
+## Current Owner Notes
+
+- Phạm Hoàng Anh (`2A202600631`) phụ trách `feature/chatbot-ui`.
+- `individual_submissions/` chỉ là nơi nộp kèm bài cá nhân trong cùng repo để
+  thầy dễ chấm. Phần team tập trung làm nằm trong `group_project/`.
 
 ## Protected Files
 
