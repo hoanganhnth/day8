@@ -13,6 +13,10 @@ st.title("Day 8 RAG Chatbot")
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
+if st.button("Clear chat"):
+    st.session_state.messages = []
+    st.rerun()
+
 for message in st.session_state.messages:
     with st.chat_message(message["role"]):
         st.markdown(message["content"])

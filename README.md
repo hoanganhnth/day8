@@ -21,17 +21,22 @@ individual_submissions/Day08-<MSSV>-<hoten>/
 
 Phần tích hợp chung chỉ được phát triển trong `group_project/`.
 
-Khuyến nghị mỗi nhiệm vụ dùng một branch riêng:
+Mỗi nhiệm vụ dùng một branch riêng:
 
 ```bash
-git checkout -b feature/chatbot-ui
-git checkout -b feature/integrated-retrieval
-git checkout -b feature/evaluation
+feature/data-preprocessing
+feature/retrieval-pipeline
+feature/generation-citation
+feature/chatbot-ui
+feature/evaluation-report
 ```
 
 Không commit `.env`, API key, virtual environment, cache hoặc index được sinh tự động.
 
+Đọc [BRANCH_RULES.md](BRANCH_RULES.md) trước khi làm. Mỗi branch chỉ sửa đúng
+nhóm file được phân công để tránh conflict khi merge.
+
 ## Current Status
 
 - Bài cá nhân Phạm Hoàng Anh: đã thêm, test cá nhân đạt 35/35.
-- Group project: đã tạo scaffold, chưa tích hợp sản phẩm hoàn chỉnh.
+- Group project: đã tách module theo task, chưa tích hợp sản phẩm hoàn chỉnh.

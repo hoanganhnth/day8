@@ -35,11 +35,47 @@ Chat UI
 group_project/
 ├── app.py
 ├── src/
-│   └── rag_pipeline.py
+│   ├── retrieval.py
+│   ├── generation.py
+│   ├── rag_pipeline.py
+│   └── utils.py
 ├── evaluation/
 │   ├── golden_dataset.json
-│   └── eval_pipeline.py
+│   ├── eval_pipeline.py
+│   └── results.md
+├── data_summary.md
 └── README.md
+```
+
+## Branch Ownership
+
+```text
+feature/data-preprocessing  -> group_project/data_summary.md
+feature/retrieval-pipeline  -> group_project/src/retrieval.py
+feature/generation-citation -> group_project/src/generation.py
+feature/chatbot-ui          -> group_project/app.py
+feature/evaluation-report   -> group_project/evaluation/
+```
+
+Chi tiết xem `BRANCH_RULES.md` ở root repo.
+
+## Integration Contract
+
+`group_project/src/rag_pipeline.py` là boundary chung cho UI và evaluation:
+
+```python
+generate_answer(question: str, history: list[dict] | None = None) -> dict
+```
+
+Output bắt buộc:
+
+```python
+{
+    "answer": "... [source.md]",
+    "sources": [...],
+    "history": [...],
+    "question": "..."
+}
 ```
 
 ## Team Assignment
