@@ -84,10 +84,10 @@ Output bắt buộc:
 | Thành viên | MSSV | Nhiệm vụ | Trạng thái |
 |---|---|---|---|
 | Phạm Hoàng Anh | 2A202600631 | Chat UI + conversation memory + source display (`feature/chatbot-ui`) | Đang làm |
-| TBD | TBD | Data preprocessing + data summary (`feature/data-preprocessing`) | Chưa phân công |
+| Đoàn Minh Hiếu | 2A202600841 | Data preprocessing + data summary (`feature/data-preprocessing`) | Đang làm |
 | TBD | TBD | Retrieval pipeline: semantic, BM25, hybrid, fallback (`feature/retrieval-pipeline`) | Chưa phân công |
 | TBD | TBD | Generation + citation formatting (`feature/generation-citation`) | Chưa phân công |
-| TBD | TBD | Evaluation A/B + `results.md` (`feature/evaluation-report`) | Chưa phân công |
+| Nguyễn Văn Minh | 2A202600556 | Evaluation A/B + `results.md` (`feature/evaluation-report`) | Đang làm |
 
 > Khi có đủ tên thành viên, thay `TBD` bằng họ tên/MSSV thật. Mỗi người chỉ sửa
 > đúng file được quy định trong `BRANCH_RULES.md`.
