@@ -82,11 +82,10 @@ Output bắt buộc:
 
 | Thành viên | MSSV | Nhiệm vụ | Trạng thái |
 |---|---|---|---|
-| Phạm Hoàng Anh | 2A202600631 | Baseline cá nhân + hỗ trợ tích hợp pipeline | Hoàn thành baseline |
+| Phạm Hoàng Anh | 2A202600631 | Cung cấp bài cá nhân đã pass test làm mẫu nền cho pipeline nhóm; phụ trách Chat UI + conversation memory + source display (`feature/chatbot-ui`) | Baseline hoàn thành, UI đang làm |
 | TBD | TBD | Data preprocessing + data summary (`feature/data-preprocessing`) | Chưa phân công |
 | TBD | TBD | Retrieval pipeline: semantic, BM25, hybrid, fallback (`feature/retrieval-pipeline`) | Chưa phân công |
 | TBD | TBD | Generation + citation formatting (`feature/generation-citation`) | Chưa phân công |
-| TBD | TBD | Chat UI + conversation memory + source display (`feature/chatbot-ui`) | Chưa phân công |
 | TBD | TBD | Evaluation A/B + `results.md` (`feature/evaluation-report`) | Chưa phân công |
 
 > Khi có đủ tên thành viên, thay `TBD` bằng họ tên/MSSV thật. Mỗi người chỉ sửa

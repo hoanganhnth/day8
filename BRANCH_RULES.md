@@ -13,6 +13,13 @@ bảo repo cuối cùng đúng yêu cầu bài nhóm.
 | `feature/chatbot-ui` | Streamlit UI, chat history, source display | `group_project/app.py` |
 | `feature/evaluation-report` | Golden dataset, A/B evaluation, results report | `group_project/evaluation/`, `group_project/README.md` phần evaluation |
 
+## Current Owner Notes
+
+- Phạm Hoàng Anh (`2A202600631`) phụ trách `feature/chatbot-ui`.
+- "Baseline cá nhân" nghĩa là bài cá nhân Day8 đã pass 35/35 test được dùng làm
+  mẫu tham khảo cho nhóm khi tích hợp retrieval/generation. Nó không có nghĩa là
+  phần pipeline nhóm đã hoàn thành.
+
 ## Protected Files
 
 Không tự ý sửa các file sau nếu không báo nhóm trước:
