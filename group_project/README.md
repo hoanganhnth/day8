@@ -82,10 +82,11 @@ Output bắt buộc:
 
 | Thành viên | MSSV | Nhiệm vụ | Trạng thái |
 |---|---|---|---|
-| Phạm Hoàng Anh | 2A202600631 | Đề xuất pipeline cá nhân làm baseline | Hoàn thành baseline |
-| | | Chat UI và conversation memory | Chưa phân công |
-| | | Retrieval integration và reranking | Chưa phân công |
-| | | Evaluation A/B và results.md | Chưa phân công |
+| Phạm Hoàng Anh | 2A202600631 | Chat UI + conversation memory + source display (`feature/chatbot-ui`) | Đang làm |
+| TBD | TBD | Data preprocessing + data summary (`feature/data-preprocessing`) | Chưa phân công |
+| Nguyễn Dương Hiếu | 2A202600822 | Retrieval pipeline: semantic, BM25, hybrid, fallback (`feature/retrieval-pipeline`) | Hoàn thành |
+| TBD | TBD | Generation + citation formatting (`feature/generation-citation`) | Chưa phân công |
+| TBD | TBD | Evaluation A/B + `results.md` (`feature/evaluation-report`) | Chưa phân công |
 
 ## Run Scaffold
 
