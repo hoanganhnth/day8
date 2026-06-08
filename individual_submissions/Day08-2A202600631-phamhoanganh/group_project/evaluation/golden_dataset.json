@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Hình phạt cho tội tàng trữ trái phép chất ma tuý theo Điều 249 Bộ luật Hình sự?",
+    "expected_answer": "Phạt tù từ 1 đến 5 năm đối với trường hợp tàng trữ từ 1g đến dưới 5g heroin hoặc cocaine, hoặc chất ma tuý khác với khối lượng tương đương.",
+    "expected_context": "Bộ luật Hình sự 2015, Điều 249"
+  },
+  {
+    "question": "Luật Phòng chống ma tuý 2021 quy định những hình thức cai nghiện nào?",
+    "expected_answer": "Cai nghiện tự nguyện tại gia đình, cai nghiện tự nguyện tại cộng đồng, cai nghiện tự nguyện tại cơ sở cai nghiện, và cai nghiện bắt buộc tại cơ sở cai nghiện.",
+    "expected_context": "Luật Phòng chống ma tuý 2021, Chương V"
+  },
+  {
+    "question": "Danh mục các chất ma tuý thuộc nhóm I theo quy định pháp luật Việt Nam gồm những chất nào?",
+    "expected_answer": "Nhóm I gồm các chất ma tuý tuyệt đối cấm sử dụng trong y học và đời sống, bao gồm heroin, cocaine, methamphetamine, MDMA (ecstasy), cannabis (cần sa), và các chất tương tự.",
+    "expected_context": "Nghị định 57/2022/NĐ-CP, Phụ lục I"
+  },
+  {
+    "question": "Trình tự xác định người sử dụng trái phép chất ma tuý theo Nghị định 105/2021/NĐ-CP?",
+    "expected_answer": "Khi phát hiện hoặc tiếp nhận thông tin, Công an xã lập biên bản hành vi sử dụng trái phép chất ma túy, yêu cầu xét nghiệm chất ma túy trong cơ thể, và lập hồ sơ quản lý. Kết quả xét nghiệm dương tính là cơ sở xác định.",
+    "expected_context": "Nghị định 105/2021/NĐ-CP, Điều 3"
+  },
+  {
+    "question": "Biện pháp quản lý người sử dụng trái phép chất ma túy gồm những gì?",
+    "expected_answer": "Lập danh sách, theo dõi tại nơi cư trú, xét nghiệm chất ma túy trong cơ thể ít nhất 02 lần trong thời hạn quản lý, giáo dục tư vấn, thời hạn quản lý là 01 năm.",
+    "expected_context": "Nghị định 105/2021/NĐ-CP, Điều 4"
+  },
+  {
+    "question": "Các giai đoạn cai nghiện tự nguyện tại gia đình, cộng đồng gồm những giai đoạn nào và thời gian tối thiểu là bao lâu?",
+    "expected_answer": "Thời gian tối thiểu là 06 tháng. Các giai đoạn gồm: tiếp nhận phân loại (5-7 ngày), giải độc cắt cơn (7-15 ngày), điều trị rối loạn tâm thần (30-60 ngày), phục hồi sức khỏe giáo dục tư vấn (30-60 ngày), phòng chống tái nghiện (còn lại).",
+    "expected_context": "Nghị định 105/2021/NĐ-CP, Điều 5"
+  },
+  {
+    "question": "Quyền của người cai nghiện tự nguyện là gì?",
+    "expected_answer": "Được tư vấn về chương trình cai nghiện, được điều trị y tế, và được bảo đảm bí mật thông tin cá nhân.",
+    "expected_context": "Nghị định 105/2021/NĐ-CP, Điều 6"
+  },
+  {
+    "question": "Đối tượng nào phải áp dụng biện pháp cai nghiện bắt buộc?",
+    "expected_answer": "Người nghiện ma túy từ đủ 18 tuổi trở lên thuộc một trong các trường hợp: đã cai nghiện tự nguyện mà tái nghiện, không đăng ký cai nghiện tự nguyện trong thời hạn quy định, tự ý bỏ cai nghiện. Thời gian từ 12 đến 24 tháng.",
+    "expected_context": "Nghị định 105/2021/NĐ-CP, Điều 10"
+  },
+  {
+    "question": "Nội dung quản lý sau cai nghiện tại nơi cư trú gồm những gì và thời gian là bao lâu?",
+    "expected_answer": "Thời gian quản lý sau cai là 02 năm. Nội dung gồm hỗ trợ việc làm, giáo dục, tư vấn, xét nghiệm định kỳ. Cán bộ tư pháp xã phối hợp với gia đình quản lý.",
+    "expected_context": "Nghị định 105/2021/NĐ-CP, Điều 15"
+  },
+  {
+    "question": "Danh mục II của Nghị định 57/2022/NĐ-CP quy định các chất ma túy nào được dùng hạn chế?",
+    "expected_answer": "Gồm Cocaine, Codeine, Fentanyl (y tế), Methadone, Morphine, Oxycodone, Pethidine, Amphetamine, Methylphenidate, Diazepam, Midazolam và các benzodiazepine khác.",
+    "expected_context": "Nghị định 57/2022/NĐ-CP, Điều 3"
+  },
+  {
+    "question": "Các tiền chất thuộc Danh mục IV của Nghị định 57/2022/NĐ-CP gồm những chất nào?",
+    "expected_answer": "Gồm Acetic anhydride, Acetone, Anthranilic acid, Ephedrine, Ergometrine, Ergotamine, Hydrochloric acid, Isosafrole, Lysergic acid, Methyl ethyl ketone, Phenylacetic acid, Piperidine, Potassium permanganate, Pseudoephedrine, Safrole, Sulphuric acid, Toluene.",
+    "expected_context": "Nghị định 57/2022/NĐ-CP, Điều 4"
+  },
+  {
+    "question": "Ca sĩ Châu Việt Cường bị bắt vì sử dụng chất ma tuý gì và ở đâu?",
+    "expected_answer": "Ca sĩ Châu Việt Cường bị phát hiện sử dụng chất ma tuý tổng hợp MDMA (thuốc lắc) tại một buổi tiệc riêng trong một căn hộ.",
+    "expected_context": "VnExpress, Ca sĩ Châu Việt Cường bị bắt vì liên quan đến ma tuý"
+  },
+  {
+    "question": "Rapper nổi tiếng bị bắt vì tàng trữ chất ma tuý nào và khối lượng là bao nhiêu?",
+    "expected_answer": "Rapper nổi tiếng bị bắt vì tàng trữ ma tuý đá (methamphetamine) với khối lượng hơn 10 gram.",
+    "expected_context": "Rapper nổi tiếng bị bắt vì tàng trữ ma tuý đá"
+  },
+  {
+    "question": "Nhóm diễn viên tổ chức sử dụng trái phép chất ma tuý tại đâu và công an phát hiện những chất gì?",
+    "expected_answer": "Nhóm diễn viên tổ chức sử dụng ma tuý tại một villa sang trọng. Cơ quan công an phát hiện cần sa và ketamine tại hiện trường.",
+    "expected_context": "Nhóm diễn viên tổ chức sử dụng ma tuý tại villa sang trọng"
+  },
+  {
+    "question": "Người mẫu Việt bị bắt vì hành vi gì liên quan đến ma tuý?",
+    "expected_answer": "Người mẫu Việt bị bắt vì hành vi mua bán trái phép chất ma tuý, nằm trong đường dây chuyên cung cấp ma tuý cho giới showbiz.",
+    "expected_context": "Người mẫu Việt bị bắt vì mua bán trái phép chất ma tuý"
+  },
+  {
+    "question": "MC truyền hình bị đình chỉ công tác sau khi có kết quả như thế nào với ma tuý?",
+    "expected_answer": "MC truyền hình bị đình chỉ công tác sau khi có kết quả xét nghiệm dương tính với ma tuý (sử dụng cần sa) từ một đợt kiểm tra đột xuất.",
+    "expected_context": "MC truyền hình bị đình chỉ công tác sau khi dương tính với ma tuý"
+  }
+]

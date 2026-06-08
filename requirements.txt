@@ -1,0 +1,5 @@
+# Group project UI
+streamlit>=1.35.0
+
+# Add shared retrieval/evaluation dependencies after the team selects
+# implementations from individual submissions.
